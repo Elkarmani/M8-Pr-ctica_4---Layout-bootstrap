@@ -1,0 +1,15 @@
+#container{
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr 3fr 1fr 2fr;
+    grid-template-rows: 2.5vh 10vh 5vh 5vh 1vh 5vh 1vh 5vh 10vh 5vh 5vh 5vh 5vh 5vh;
+    background-color: blueviolet;
+}
+
+.titulo1{
+    text-align: center;
+}
+
+.col-14{
+    border: solid 2px;
+    border-color: black;
+}
